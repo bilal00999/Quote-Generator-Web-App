@@ -14,7 +14,6 @@ https://quote-generator-web-app-mu.vercel.app/
 
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Language**: TypeScript (optional)
 - **UI Components**: [shadcn/ui](https://ui.shadcn.com/) (Input, Button, Label)
 
 ---
